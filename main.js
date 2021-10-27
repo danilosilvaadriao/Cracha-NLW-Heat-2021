@@ -38,4 +38,4 @@ function getGitHubProfileInfos() {
         })
 }
 
- getGitHubProfileInfos();
+// getGitHubProfileInfos();
