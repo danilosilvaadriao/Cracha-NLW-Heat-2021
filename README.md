@@ -1,4 +1,4 @@
-# Cracha-NLW-Heat-2021 :rocket:
+# Cracha NLW Heat 2021 :rocket:
 
 Crachá virtual criado na trilha Origin do NLW/Heat 2021 da Rocketseat.
 
