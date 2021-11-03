@@ -6,4 +6,5 @@ Utilizamos Javascript, CSS e HTML para realizar o desafio. <br>
 O Visual Studio Code foi a IDE utilizada no desenvolvimento. <br>
 
 <h2> Gif do desafio: <h2> <br>
+
 ![cracha DoWhile](https://user-images.githubusercontent.com/82722083/139965601-a8da26a8-8d5f-4530-8b65-13dd836b0562.gif)
